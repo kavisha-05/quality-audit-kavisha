@@ -2,7 +2,7 @@
 
 **Titre :** Calcul et application d'un code promo valide (`ATLAS15`)  
 **Catégorie :** Règle Métier  
-**Statut :** FAIL   
+**Statut :** PASSs   
 **Date d'exécution :** 28 septembre 2026  
 **Anomalie associée :** BUG-003  
 

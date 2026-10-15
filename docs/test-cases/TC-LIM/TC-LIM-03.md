@@ -25,7 +25,6 @@ L'adresse est acceptée ou tronquée proprement sans lever d'exception d'erreur 
 L'adresse est enregistrée en BDD sans crash.
 
 ## 6. Preuve visuelle
-## 6. Preuve visuelle
 ![Preuve TC-LIM-03 - Saisie adresse](../../screenshots/TC-LIM/TC-LIM-03-1.png)
 ![Preuve TC-LIM-03 - Affichage profil](../../screenshots/TC-LIM/TC-LIM-03-2.png)
 ![Preuve TC-LIM-03 - Sélection checkout](../../screenshots/TC-LIM/TC-LIM-03-3.png)

@@ -26,4 +26,5 @@ L'article est ajouté, la quantité passe à 2 et le sous-total du panier est re
 Panier mis à jour correctement, quantités et montants recalculés sans erreur.
 
 ## 6. Preuve visuelle
-![Preuve TC-NOM-05](../../screenshots/TC-NOM/TC-NOM-05.png)
+![Preuve TC-NOM-05-1](../../screenshots/TC-NOM/TC-NOM-05-1.png)
+![Preuve TC-NOM-05-2](../../screenshots/TC-NOM/TC-NOM-05-2.png)

@@ -27,4 +27,5 @@ La page s'affiche sans erreur HTTP. Toutes les cartes de restaurants affichent l
 Toutes les cartes de restaurants chargent correctement. Les données sont conformes à la base de données.
 
 ## 6. Preuve visuelle
-![Preuve TC-NOM-01](../../screenshots/TC-NOM/TC-NOM-01.png)
+![Preuve TC-NOM-01-1](../../screenshots/TC-NOM/TC-NOM-01-1.png)
+![Preuve TC-NOM-01-2](../../screenshots/TC-NOM/TC-NOM-01-2.png)

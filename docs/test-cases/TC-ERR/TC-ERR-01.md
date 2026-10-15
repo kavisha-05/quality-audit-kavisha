@@ -28,3 +28,4 @@ La commande est acceptée et enregistrée en BDD malgré le statut fermé du res
 
 ## 6. Preuve visuelle
 ![Preuve TC-ERR-01](../../screenshots/TC-ERR/TC-ERR-01.png)
+![Preuve TC-ERR-01-1](../../screenshots/TC-ERR/TC-ERR-01-1.png)

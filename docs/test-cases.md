@@ -33,7 +33,7 @@
 * [TC-LIM-03](./test-cases/TC-LIM-03.md) — Saisie d'une adresse de livraison très longue (`PASS`)
 * [TC-LIM-04](./test-cases/TC-LIM-04.md) — Paramètre de limite API `limit=0` (`FAIL` ➔ `BUG-002`)
 * [TC-LIM-05](./test-cases/TC-LIM-05.md) — Recherche par chaîne de caractères minimale (`PASS`)
-* [TC-LIM-06](./test-cases/TC-LIM-06.md) — Saisie de caractères spéciaux et injection XSS (`FAIL` ➔ `BUG-006`)
+* [TC-LIM-06](./test-cases/TC-LIM-06.md) — Saisie de caractères spéciaux et injection XSS (`PASS` ➔ `BUG-006`)
 
 ### 3. Tests d'Erreurs (`TC-ERR`)
 * [TC-ERR-01](./test-cases/TC-ERR-01.md) — Commande sur un restaurant fermé (`FAIL` ➔ `BUG-004`)

@@ -27,5 +27,4 @@ Le compte est créé en BDD, un message de confirmation apparaît et l'utilisate
 Inscription réussie, l'utilisateur est redirigé et le compte est correctement inséré dans la table `users`.
 
 ## 6. Preuve visuelle
-![Preuve TC-NOM-02-1](../../screenshots/TC-NOM/TC-NOM-02-1.png)
-![Preuve TC-NOM-02-2](../../screenshots/TC-NOM/TC-NOM-02-2.png)
+![Preuve TC-NOM-02](../../screenshots/TC-NOM/TC-NOM-02.png)

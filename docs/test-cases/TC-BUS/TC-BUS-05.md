@@ -26,5 +26,6 @@ L'ajout au panier doit être impossible et le produit indiqué comme indisponibl
 Le produit s'ajoute au panier et la commande est validée avec succès.
 
 ## 6. Preuve visuelle
+![Preuve TC-BUS-05-3](../../screenshots/TC-BUS/TC-BUS-05-3.png)
 ![Preuve TC-BUS-05-1](../../screenshots/TC-BUS/TC-BUS-05-1.png)
 ![Preuve TC-BUS-05-2](../../screenshots/TC-BUS/TC-BUS-05-2.png)
