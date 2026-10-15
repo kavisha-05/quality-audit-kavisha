@@ -56,7 +56,7 @@ L'exécution a permis de remonter **8 anomalies majeures (Bug Reports)**. Bien q
 
 ---
 
-## 4. Recommandation finale : NO-GO ❌
+## 4. Recommandation finale : NO-GO
 
 ### Décision
 Le lancement en production de la plateforme QuickOrder en l'état actuel est **STRICTEMENT DÉCONSEILLÉ (Avis NO-GO)**.
