@@ -25,7 +25,7 @@
 * [TC-NOM-03](./test-cases/TC-NOM-03.md) — Authentification et affichage du profil (`PASS`)
 * [TC-NOM-04](./test-cases/TC-NOM-04.md) — Consultation du menu d'un restaurant (`PASS`)
 * [TC-NOM-05](./test-cases/TC-NOM-05.md) — Ajout de produits et gestion du panier (`PASS`)
-* [TC-NOM-06](./test-cases/TC-NOM-06.md) — Finalisation de commande et confirmation (`PASS`)
+* [TC-NOM-06](./test-cases/TC-NOM-06.md) — Consultation de la liste des restaurants via l'API Swagger (PASS)
 
 ### 2. Tests aux Limites (`TC-LIM`)
 * [TC-LIM-01](./test-cases/TC-LIM-01.md) — Saisie de la quantité maximale (99 unités) (`PASS`)

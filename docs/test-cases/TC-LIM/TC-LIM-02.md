@@ -28,3 +28,5 @@ La commande #4 est confirmée et enregistrée en base de données pour un montan
 
 ## 6. Preuve visuelle
 ![Preuve TC-LIM-02-1](../../screenshots/TC-LIM/TC-LIM-02-1.png)
+![Preuve TC-LIM-02-2](../../screenshots/TC-LIM/TC-LIM-02-2.png)
+![Preuve TC-LIM-02-3](../../screenshots/TC-LIM/TC-LIM-02-3.png)

@@ -26,6 +26,5 @@ Connexion établie, ouverture de session, redirection vers la page d'accueil et 
 Connexion validée, cookie de session créé et nom utilisateur affiché.
 
 ## 6. Preuve visuelle
-## 6. Preuve visuelle
 ![Preuve TC-NOM-03 - Mon Profil](../../screenshots/TC-NOM/TC-NOM-03-1.png)
 ![Preuve TC-NOM-03 - Détails Compte](../../screenshots/TC-NOM/TC-NOM-03-2.png)

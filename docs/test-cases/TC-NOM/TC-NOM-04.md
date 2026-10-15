@@ -15,7 +15,7 @@ S'assurer qu'un utilisateur peut consulter le menu détaillé d'un restaurant.
 * L'utilisateur est sur la page d'accueil.
 
 ## 3. Étapes d'exécution
-1. Cliquer sur une carte de restaurant (ex: "Burgers & Co").
+1. Cliquer sur une carte de restaurant (ex: "Burgers Factory").
 2. Parcourir la liste des catégories et des plats disponibles.
 
 ## 4. Résultat attendu

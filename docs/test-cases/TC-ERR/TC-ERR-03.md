@@ -25,4 +25,4 @@ Message d'erreur : "Code promo invalide ou expiré". Le total du panier reste in
 Le code est refusé et le montant n'est pas modifié.
 
 ## 6. Preuve visuelle
-![Preuve TC-ERR-03](../screenshots/tc-err-03.png)
+![Preuve TC-ERR-03](../../screenshots/TC-ERR/TC-ERR-03.png)
